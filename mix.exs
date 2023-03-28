@@ -56,7 +56,7 @@ defmodule LiveViewCounter.MixProject do
       {:plug_crypto, "~> 1.2.2"},
 
       # Test Code Coverage:
-      {:excoveralls, "~> 0.15.0", only: :test}
+      {:excoveralls, "~> 0.16.1", only: :test}
     ]
   end
 
